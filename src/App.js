@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://avatars0.githubusercontent.com/u/26392826" className="App-logo" alt="logo" />
         <p>
-          Aplicação React rodando com sucesso. Agora, configure o Travis-ci.
+          Aplicação React rodando com sucesso no Travis-ci.
         </p>
         <a
           className="App-link"
